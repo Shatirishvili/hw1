@@ -1,0 +1,64 @@
+.home {
+    color: #128410;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.contact {
+    color: #128410;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;    
+}
+
+.about {
+    color: #128410;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;    
+}
+
+.ford-car {
+    width: 1345px;
+    height: 720px;
+    flex-shrink: 0; 
+}
+
+h1 {
+    color: #821095;
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#aboutus {
+    display: flex;
+    width: 1320px;
+    height: 387px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #D41EF2;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#contacts {
+    width: 448px;
+    height: 204px;
+    flex-shrink: 0;
+    background: #D41EF2;
+    text-align: center;
+}
